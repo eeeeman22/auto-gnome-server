@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.954eac74.chunk.css",
+    "main.js": "/static/js/main.3b331197.chunk.js",
+    "main.js.map": "/static/js/main.3b331197.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7c6c9c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7c6c9c6.js.map",
+    "static/js/2.2b5787a1.chunk.js": "/static/js/2.2b5787a1.chunk.js",
+    "static/js/2.2b5787a1.chunk.js.map": "/static/js/2.2b5787a1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cc3fb2f41e2b9c37237d60a1680dfe2e.js": "/precache-manifest.cc3fb2f41e2b9c37237d60a1680dfe2e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.954eac74.chunk.css.map": "/static/css/main.954eac74.chunk.css.map",
+    "static/js/2.2b5787a1.chunk.js.LICENSE": "/static/js/2.2b5787a1.chunk.js.LICENSE",
+    "static/media/metronome1.flac": "/static/media/metronome1.fd742d0f.flac"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c6c9c6.js",
+    "static/js/2.2b5787a1.chunk.js",
+    "static/css/main.954eac74.chunk.css",
+    "static/js/main.3b331197.chunk.js"
+  ]
+}
